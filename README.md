@@ -12,7 +12,7 @@
         "pluginsConfig": {
             "mtime":{
                 "prefix":"最后修订：",
-                "postfix":"<span style=\"float:right\">版权所有</span></p>"
+                "postfix":"<span style=\"float:right\">版权所有</span>"
             }
         }
     }
